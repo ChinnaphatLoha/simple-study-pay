@@ -4,6 +4,10 @@ Simple Study Pay is an example of Python code created as an additional exercise 
 
 This project is organized for first-year students of SIT KMUTT in the IT field. This repository is intended to provide an overview and prepare students for studying programming. Start by understanding flowcharts, practice thinking through Scratch, and study additional programming languages such as Python.
 
+ปล. ถึงน้อง ๆ พี่ขออภัยสำหรับข้อผิดพลาดเรื่องการสอนใช้โปรแกรม Scratch ในบางจุดด้วยนะครับ พี่เองก็เพิ่งได้ลองจับเหมือนกัน อาจทำให้รู้สึกเสียดายที่พลาดรางวัลใหญ่
+
+❤️ ทุกคนเก่งและมีความพยายามกันมากเลยนะ อยากให้ภูมิใจในตัวเองที่ตั้งใจและเรียนรู้ได้ไวขนาดนี้ ขอให้ทุกคน be happy and have fun every day ครับ
+
 ## Problem Statement
 
 You can read the problem question at this [link](https://cherry-actress-48c.notion.site/dd37efef69284bed95be067f3759da27) or read it below:
